@@ -7,6 +7,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'listen'
 gem 'bootstrap', '~> 4.0.0.alpha5'
+gem 'react-rails'
+
 
 group :development, :test do
   gem 'capybara'
